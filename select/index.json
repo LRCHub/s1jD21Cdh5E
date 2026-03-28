@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "Superstar",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2026-03-28T09:39:32.936749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SuperStar",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_SuperStar_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Superstar",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_Superstar_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Avatar Iso Superstar",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/03_Avatar_Iso_Superstar_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Superstar",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/04_Superstar_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Superstar (feat. Matt Santos)",
+      "artist": "Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/05_Superstar_(feat._Matt_Santos)_Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Superstar (featuring Matthew Santos)",
+      "artist": "Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/06_Superstar_(featuring_Matthew_Santos)_Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Antichrist Superstar",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/07_Antichrist_Superstar_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mister Superstar",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/08_Mister_Superstar_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Superstar",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/09_Superstar_Madonna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ALIEN SUPERSTAR",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/10_ALIEN_SUPERSTAR_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She's a Superstar",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/11_She's_a_Superstar_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She's A Superstar - Edit",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/12_She's_A_Superstar_-_Edit_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She's A Superstar [Edit]",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/13_She's_A_Superstar_[Edit]_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She´s A Superstar",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/14_She_́s_A_Superstar_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dragstrip Superstar",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/15_Dragstrip_Superstar_Mötley_Crüe.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La La Superstar",
+      "artist": "Me & My",
+      "has_synced": true,
+      "path": "select/16_La_La_Superstar_Me_&_My.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "superstar",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_superstar_Ayumu_Imazu.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Superstar",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/localdb_01_Superstar_Ayumu_Imazu.txt",
+      "repo_name": "BV0sd4bTxj4"
+    }
+  ]
+}
